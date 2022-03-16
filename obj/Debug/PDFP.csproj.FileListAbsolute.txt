@@ -1,0 +1,12 @@
+/Users/stephenwoodman/Projects/PDFP/PDFP/bin/Debug/PDFP.exe.config
+/Users/stephenwoodman/Projects/PDFP/PDFP/bin/Debug/PDFP.exe
+/Users/stephenwoodman/Projects/PDFP/PDFP/bin/Debug/PDFP.pdb
+/Users/stephenwoodman/Projects/PDFP/PDFP/bin/Debug/BouncyCastle.Crypto.dll
+/Users/stephenwoodman/Projects/PDFP/PDFP/bin/Debug/itextsharp.dll
+/Users/stephenwoodman/Projects/PDFP/PDFP/bin/Debug/itextsharp.xml
+/Users/stephenwoodman/Projects/PDFP/PDFP/obj/Debug/PDFP.csproj.AssemblyReference.cache
+/Users/stephenwoodman/Projects/PDFP/PDFP/obj/Debug/PDFP.exe.config
+/Users/stephenwoodman/Projects/PDFP/PDFP/obj/Debug/PDFP.csproj.CoreCompileInputs.cache
+/Users/stephenwoodman/Projects/PDFP/PDFP/obj/Debug/PDFP.csproj.CopyComplete
+/Users/stephenwoodman/Projects/PDFP/PDFP/obj/Debug/PDFP.exe
+/Users/stephenwoodman/Projects/PDFP/PDFP/obj/Debug/PDFP.pdb
